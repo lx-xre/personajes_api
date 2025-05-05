@@ -3,7 +3,7 @@
 La API conecta con una base de datos y permite hacer requests POST y GET para manejar uinformacion sobre personajes y peliculas/series en las que aparecen
 
 
-####Tecnologias usadas
+### Tecnologias usadas
 - Laravel
 - Composer php
 - VS Code
